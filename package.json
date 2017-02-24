@@ -1,0 +1,20 @@
+{
+	"name": "ldif-gps-gpx",
+	"version": "1.0.0",
+	"description": "Geocode ldif Address book, and create gpx files per mailinglist",
+	"main": "backfill_ldif.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name" : "Josh Nijenhuis",
+		"url" : "https://github.com/josiah47/ldif-gps-gpx.git",
+		"email" : "josh@nijenhuis.ca"
+	},
+	"license": "MIT",
+	"dependencies" : {
+		"ldif": "",
+		"@google/maps": "",
+		"togpx": ""
+	}
+}
